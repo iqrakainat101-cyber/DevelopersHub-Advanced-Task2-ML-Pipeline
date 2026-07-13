@@ -67,7 +67,3 @@ Screenshots:
 - Scikit-learn
 - Joblib
 - Matplotlib
-
-AI/ML Engineering Advanced Internship
-
-Task 2 – End-to-End Machine Learning Pipeline
